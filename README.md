@@ -1,2 +1,2 @@
-# dats6103_project1
+# DATS6103 
 The python script for the dats6103 course
